@@ -1,0 +1,2 @@
+1. Luôn cmt từng phần mà mình làm, có begin-có end.
+2. Phần nào làm done rồi đóng lại để dễ quản lý

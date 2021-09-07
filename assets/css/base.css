@@ -1,6 +1,5 @@
 :root {
     --primary-color: #EE4D2D;
-    
     --while-color : #fff;
     --black-color: #000;
     --text-color: #333;
@@ -9,12 +8,13 @@
 
 *{
     box-sizing: inherit;
+    
 }
 
 html {
     font-size: 62.5%; /* viết 62,5% có nghĩa là cứ 1 rem thì bằng 10px, còn nếu bằng 100% thì cứ 1rem bằng 16px */
     line-height: 1.6rem; /* chiều cao của dòng chữ */
-    font-family: 'Roboto', sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     box-sizing: border-box;
 }
 

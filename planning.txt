@@ -1,12 +1,12 @@
 Basing shopee :
 	1. Header
-		1.1. login-seller // Lệ
-		1.2. become-seller // Nghĩa
+		1.1. login-seller // Nghĩa
+		1.2. become-seller // Lệ
 		1.3. download app // Lệ
 		1.4. notification // alert
-		1.5. support // Lệ
-		1.6. register-client // Nghĩa
-		1.7. login-client // Nghĩa
+		1.5. support // Nghĩa
+		1.6. register-client // Lệ
+		1.7. login-client // Lệ
 	deadline : 
 	2. Container
 	3. About
